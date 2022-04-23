@@ -1,4 +1,4 @@
-# AI-python
+# PAI (Python AI)
 Frase Comprehension
 
 Python Artificial Intelligence to get to emotional bits. 
